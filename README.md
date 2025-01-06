@@ -2,7 +2,6 @@
 
 Hello! I'm Zlatan Smajic, a driven developer focused on solving complex tasks with creativity and curiosity. 💻
 
-![](https://komarev.com/ghpvc/?username=zlaja-billund)
 
 ## 🌟 What I Do
 
