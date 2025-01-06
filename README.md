@@ -35,6 +35,4 @@ Hello! I'm Zlatan Smajic, a driven developer focused on solving complex tasks wi
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </p>
 
-![](https://raw.githubusercontent.com/zlaja-billund/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
 Let’s connect and collaborate on something awesome! 🚀
