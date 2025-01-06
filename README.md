@@ -5,7 +5,7 @@ Hello! I'm Zlatan Smajic, a driven developer focused on solving complex tasks wi
 ## 🌟 What I Do
 
 * **Programming Enthusiast:** Always learning and experimenting with new technologies.
-* **Languages:** Proficient in Python, PHP, Django, Laravel, C#, Vue.js, and JavaScript.
+* **Languages:** Python, PHP, Django, Laravel, C#, Vue.js, and JavaScript.
 * **Operating Systems:** A Linux enthusiast, especially passionate about Ubuntu.
 * **Specializations:** Full-stack development and Machine Learning.
 * **Current Focus:** Working on some exciting, private projects that I hope will one day make people’s lives easier.
